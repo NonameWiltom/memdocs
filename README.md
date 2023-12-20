@@ -2,7 +2,7 @@
 
 ## Learn how to contribute
 
-Anyone who is interested can contribute to the topics. When you contribute, your work will go directly into the content set after being merged. It will then be published to [Microsoft Learn](https://learn.microsoft.com/) and you will be listed as a contributor at: <https://github.com/MicrosoftDocs/memdocs/graphs/contributors>.
+Anyone who is interested can contribute to the topics. When you contribute, your work will go directly into the content set after being merged. It will then be published to [Microsoft Learn](https://learn.microsoft.com/) and you will be listed as a contributor at: <[def]>.
 
 ### Quickly update an article using GitHub.com
 
@@ -65,3 +65,6 @@ The licenses for this project do not grant you rights to use any Microsoft names
 Privacy information can be found at <https://privacy.microsoft.com/>
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel or otherwise.
+
+
+[def]: ttps://github.com/MicrosoftDocs/memdocs/graphs/contributor
